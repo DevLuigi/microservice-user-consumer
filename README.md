@@ -18,9 +18,7 @@
 
 - [Ferramentas utilizadas](#ferramentas-utilizadas)
 
-- [Acesso ao projeto](#acesso-ao-projeto)
-
-- [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
+- [Acesso ao producer do projeto](#acesso-ao-producer-do-projeto)
 
 
 <br>
@@ -50,15 +48,13 @@
 <br>
 
 ## Ferramentas utilizadas
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-###
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 
 <br>
 
 ## Acesso ao producer do projeto
 
-Você pode acessar o código fonte do projeto producer [clicando aqui](https://github.com/DevLuigi/microservice-user-producer)
-
-## Abrir e rodar o projeto
+Você pode acessar o código fonte do projeto producer clicando aqui: [link](https://github.com/DevLuigi/microservice-user-producer).
